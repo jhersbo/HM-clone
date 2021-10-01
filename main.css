@@ -1,8 +1,143 @@
-*{
+/* *{
     border: 1px solid blue;
+} */
+
+
+body{
+    background-color: #FAF9F8;
+}
+
+.hero{
+    text-align: center;
+}
+
+.hero img{
+    width: 10%;
+}
+
+#main-nav{
+    padding-left: 30%;
+}
+
+#space{
+    width: 20rem;
+}
+
+.container{
+    padding-top: 5rem;
+}
+
+.col{
+    text-align: center;
+    align-self: center;
+}
+
+#markdowns{
+    text-align: center;
+    padding-top: 3rem;
+}
+
+#markdowns img{
+    width: 100%;
+}
+
+.bucket{
+    padding: 0% 16% 0% 16%;
+    text-align: center;
+}
+
+.bucket h3{
+    padding-top: 3rem;
+}
+
+.soft-neutral{
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.soft-neutral img{
+    width: 100%;
+}
+
+.scroll-ad{
+    text-align: center;
+}
+
+.scroll-ad img{
+    width: 100%;
+}
+
+.fall-sale{
+    text-align: center;
+}
+
+.fall-sale img{
+    width: 100%;
+}
+
+.basics{
+    text-align: center;
+}
+
+.basics img{
+    width: 100%;
+}
+
+.fall{
+    text-align: center;
+}
+
+.fall img{
+    width: 100%;
+}
+
+#magazine{
+    text-align: center;
+    padding-top: 5rem;
+}
+
+#article-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 3rem 10% 3rem 10%;
+}
+
+#more-articles{
+    background-color: #F4EDDD;
+    padding-bottom: 3rem;
 }
 
 
-img{
-    width: 10%;
+.inside{
+    text-align: center;
+    max-width: 250px;
+}
+
+footer{
+    padding-top: 5rem;
+}
+
+#upper{
+    display: flex;
+    justify-content: space-around;
+}
+
+#lower{
+    text-align: center;
+    padding: 3rem 30rem 3rem 30rem;
+}
+
+#socials{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+li{
+    list-style-type: none;
+}
+
+footer{
+    background-color: #E4E4E4;
 }
